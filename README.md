@@ -17,6 +17,12 @@ To write a program to perform SSBSC modulation and demodulation using SCI LAB an
 ---
 
 ## ALGORITHM
+<img width="960" height="1280" alt="82e500f4-ec18-48ed-aa35-43492ceadf41" src="https://github.com/user-attachments/assets/627a9f69-0170-45a2-90a7-2278ef463781" />
+<img width="960" height="1280" alt="f34cb31d-8c93-4b37-986d-9c686cb04e65" src="https://github.com/user-attachments/assets/3b1692d5-8287-40be-afef-5b5a198ae977" />
+<img width="960" height="1280" alt="2c19058e-d446-45ca-84e5-a8985eb9b355" src="https://github.com/user-attachments/assets/2324e0da-bb1d-41cd-a47e-62d260f1d002" />
+<img width="960" height="1280" alt="33a35d98-e44c-4cae-b900-ae65614fa96f" src="https://github.com/user-attachments/assets/e65d8bb9-09ed-413f-a2a5-2c6d6ff718f7" />
+<img width="960" height="1280" alt="d1a89d75-18cd-41fc-aa46-deab926a1ba9" src="https://github.com/user-attachments/assets/55353e17-4943-4c13-9e4b-81b90e4f0952" />
+
 
 ### 1. Define Parameters:
 
@@ -78,4 +84,5 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 
 ## MODEL GRAPH
 
+<img width="960" height="1280" alt="c9e67a88-5121-48fc-9a08-00c9c4fce2ce" src="https://github.com/user-attachments/assets/2123adbd-117c-4a34-8fd8-59cc7713eb69" />
 
